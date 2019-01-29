@@ -1,4 +1,4 @@
-# dataviz
+# Dataviz
 
 Curso: Visualización de datos (España)
 
